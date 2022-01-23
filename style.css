@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:yellow ;
+    padding: 20px;
+    margin-bottom:10px ;
+}
+header a{
+    background-color: red;
+}
+body a {
+    text-decoration: none;
+}
+main nav,h1 {
+    text-align: center;
+}
+h1 {
+    text-shadow: 2px 2px 2px rebeccapurple;
+}
+ul{
+    margin-left: 30%;
+}
+.link-header {
+    color: royalblue;
+    border-radius: 20px ;
+    padding: 10px;
+    background-image: linear-gradient(to right, red,white );
+}
+footer{
+    background-image: linear-gradient(to right,royalblue ,white  );
+    padding: 10px ;
+    text-align:center ;
+}
+.socila{
+    margin:0px 50px 0px 50px ;
+}
